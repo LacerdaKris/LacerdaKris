@@ -1,4 +1,4 @@
-Hello World, hello Github!
+<p style="font-weight: bold; color: #FFC2C4;">Hello World, hello Github!</p>
 
 <div>
 <a href="https://github.com/LacerdaKris">
@@ -12,6 +12,7 @@ Some web pages with JavaScript+CSS+HTML:
 <a href="https://lacerdakris.github.io/Calculadora/" target="_blank">Calculadora digital</a>
 <br>
 <a href="https://lacerdakris.github.io/Jogo-da-Velha/" target="_blank">Jogo da Velha</a>
+<br>
    
 Some features with Python:
 <br><br>
@@ -22,11 +23,12 @@ Some features with Python:
 <a href="https://github.com/LacerdaKris/UFRGS/blob/main/estacionamento.py" target="_blank">Vagas e rotatividade de um estacionamento</a>
 <br>
 <a href="https://github.com/LacerdaKris/UFRGS/blob/main/hamburgueria.py" target="_blank">Cadastro de pedidos para hamburgueria</a>
+<br>
 
 Currently studying:
 <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height=7% width=7%/>
-
+<br>
 <div>
 Contact:
 <br><br>
@@ -34,6 +36,6 @@ Contact:
 </div>
 
 <br>
-<img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-10.gif" height=30% width=30%/>
+<img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-10.gif" height=20% width=20%/>
           
           
