@@ -4,21 +4,16 @@ Hello World, hello Github!
           
 Some web pages with JavaScript+CSS+HTML:
 
-https://lacerdakris.github.io/Calculadora/
-
-https://lacerdakris.github.io/Jogo-da-Velha/
+<a href="https://lacerdakris.github.io/Calculadora/" target="_blank">Calculadora digital</a>
+<a href="https://lacerdakris.github.io/Jogo-da-Velha/" target="_blank">Jogo da Velha</a>
 
        
 Some features with Python:
 
 https://github.com/LacerdaKris/Transportadora
-
 https://github.com/LacerdaKris/CS50/blob/main/cartaocredito.py
-
 https://github.com/LacerdaKris/UFRGS/blob/main/estacionamento.py
-
 https://github.com/LacerdaKris/UFRGS/blob/main/hamburgueria.py
-
 https://github.com/LacerdaKris/CS50/blob/main/cifradecesar.py
 
 
@@ -32,8 +27,9 @@ Currently studying:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LacerdaKris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+
 <div>
-<a href="https://www.linkedin.com/in/k-cristine-lacerda-68532260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+Contacts at <a href="https://www.linkedin.com/in/k-cristine-lacerda-68532260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
           
           
