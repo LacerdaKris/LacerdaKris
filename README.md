@@ -1,4 +1,4 @@
-<p style="font-weight: bold;">Hello World, hello Github!</p>
+<h3>Hello World, hello Github!</h3>
 
 <div>
 <a href="https://github.com/LacerdaKris">
