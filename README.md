@@ -16,13 +16,13 @@ Some web pages with JavaScript+CSS+HTML:
    
 Some features with Python:
 <br><br>
+<a href="https://github.com/LacerdaKris/Gerenciamento-de-despesas-pessoais" target="_blank">Gerenciador de despesas pessoais</a>
+<br>
 <a href="https://github.com/LacerdaKris/Transportadora" target="_blank">Menu de uma transportadora para cargas pesadas</a>
 <br>
 <a href="https://github.com/LacerdaKris/CS50/blob/main/cartaocredito.py" target="_blank">Algoritmo para conferir bandeira e validade de cartões</a>
 <br>
 <a href="https://github.com/LacerdaKris/UFRGS/blob/main/estacionamento.py" target="_blank">Vagas e rotatividade de um estacionamento</a>
-<br>
-<a href="https://github.com/LacerdaKris/UFRGS/blob/main/hamburgueria.py" target="_blank">Cadastro de pedidos para hamburgueria</a>
 <br><br>
 
 Currently studying:
