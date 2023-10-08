@@ -30,7 +30,7 @@ Some features with Python:
 Power BI:
 <br><br>
 <a href="https://github.com/LacerdaKris/First-report-PowerBI/tree/main" target="_blank">Financial Report</a>
-<br>
+<br><br>
 
 Technologies:
 <br><br>
