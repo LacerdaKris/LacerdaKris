@@ -27,6 +27,11 @@ Some features with Python:
 <a href="https://github.com/LacerdaKris/UFRGS/blob/main/estacionamento.py" target="_blank">Parking spaces and turnover</a>
 <br><br>
 
+Power BI:
+<br><br>
+<a href="https://github.com/LacerdaKris/First-report-PowerBI/tree/main" target="_blank">Financial Report</a>
+<br>
+
 Technologies:
 <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=7% width=7%/> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height=5% width=5%/> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" height=6% width=6%/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" height=7% width=7%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=7% width=7%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height=7% width=7%/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height=7% width=7%/>
