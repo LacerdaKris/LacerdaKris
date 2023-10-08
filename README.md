@@ -7,27 +7,29 @@
 </div>
 <br>
           
-Some web pages with JavaScript+CSS+HTML:
+Some web pages:
 <br><br>
-<a href="https://lacerdakris.github.io/Calculadora/" target="_blank">Calculadora digital</a>
+<a href="https://lacerdakris.github.io/Calculadora/" target="_blank">Digital calculator</a>
 <br>
-<a href="https://lacerdakris.github.io/Jogo-da-Velha/" target="_blank">Jogo da Velha</a>
+<a href="https://lacerdakris.github.io/Jogo-da-Velha/" target="_blank">Hash game (Tic-Tac-Toe)</a>
 <br><br>
+<a href="https://github.com/LacerdaKris/ITAcademy19/tree/main/projeto-integrador" target="_blank">Computer equipment rental</a>
+<br>
    
 Some features with Python:
 <br><br>
-<a href="https://github.com/LacerdaKris/Gerenciamento-de-despesas-pessoais" target="_blank">Gerenciador de despesas pessoais</a>
+<a href="https://github.com/LacerdaKris/Gerenciamento-de-despesas-pessoais" target="_blank">Personal expense manager</a>
 <br>
-<a href="https://github.com/LacerdaKris/Transportadora" target="_blank">Menu de uma transportadora para cargas pesadas</a>
+<a href="https://github.com/LacerdaKris/Transportadora" target="_blank">Menu of a heavy load carrier</a>
 <br>
-<a href="https://github.com/LacerdaKris/CS50/blob/main/cartaocredito.py" target="_blank">Algoritmo para conferir bandeira e validade de cartões</a>
+<a href="https://github.com/LacerdaKris/CS50/blob/main/cartaocredito.py" target="_blank">Algorithm to check card brand and validity</a>
 <br>
-<a href="https://github.com/LacerdaKris/UFRGS/blob/main/estacionamento.py" target="_blank">Vagas e rotatividade de um estacionamento</a>
+<a href="https://github.com/LacerdaKris/UFRGS/blob/main/estacionamento.py" target="_blank">Parking spaces and turnover</a>
 <br><br>
 
 Currently studying:
 <br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=7% width=7%/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" height=7% width=7%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height=7% width=7% style="background-color: white;"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-plain.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height=7% width=7%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=7% width=7%/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" height=7% width=7%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height=7% width=7% style="background: white;"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/power-bi.svg" height=7% width=7%/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height=7% width=7%/>
 <br>
 <div>
 <br>
