@@ -13,6 +13,8 @@ Some web pages:
 <br>
 <a href="https://lacerdakris.github.io/Jogo-da-Velha/" target="_blank">Hash game (Tic-Tac-Toe)</a>
 <br>
+<a href="https://lacerdakris.github.io/VRP-Sul/" target="_blank">Site VRP Sul</a>
+<br>
 <a href="https://github.com/LacerdaKris/ITAcademy19/tree/main/projeto-integrador" target="_blank">Computer equipment rental</a>
 <br>
    
